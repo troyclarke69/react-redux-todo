@@ -10,7 +10,9 @@ import Fetch from './components/fetch'
 const store = createStore(rootReducer)
 
 render(
+	
   <Provider store={store}>
+  <h1>Hello </h1>
     <App />
 	  <Fetch  />
   </Provider>,
