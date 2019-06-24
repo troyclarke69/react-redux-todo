@@ -1,7 +1,7 @@
 import React from 'react';
 //import ReactDOM from 'react-dom';
 //import axios from 'axios';
-import {render} from "react-dom"
+//import {render} from "react-dom"
 
 export default class Fetch extends React.Component {
   constructor(props) {
